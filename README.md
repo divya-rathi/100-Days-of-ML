@@ -20,7 +20,7 @@ Step 3: Predicting the result.
 Step 4: Visualization.   
 
 ### Multiple Linear Regression | Day 3
-Check out the code [here]()
+Check out the code [here](https://github.com/divya-rathi/100-Days-of-ML/blob/master/Day%203%20-%20Multiple%20Linear%20Regression/multiple_linear_regression.py)
 
 Step 1: PreProcess the data.  
 Step 2: Fitting Multiple Linear Regression model to the training set.  
