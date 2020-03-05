@@ -18,3 +18,10 @@ Step 1: PreProcess the data.
 Step 2: Fitting Simple Linear Regression model to the training set.  
 Step 3: Predicting the result.  
 Step 4: Visualization.   
+
+### Multiple Linear Regression | Day 3
+Check out the code [here]()
+
+Step 1: PreProcess the data.  
+Step 2: Fitting Multiple Linear Regression model to the training set.  
+Step 3: Predicting the result.
